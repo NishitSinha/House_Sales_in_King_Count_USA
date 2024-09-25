@@ -1,6 +1,4 @@
-Here’s a README template for the [House Sales in King County, USA](https://github.com/NishitSinha/House_Sales_in_King_Count_USA) project. You can modify or expand it to fit the specifics of the project:
 
----
 
 # House Sales in King County, USA
 
